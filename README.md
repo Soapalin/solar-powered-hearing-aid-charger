@@ -1,4 +1,4 @@
-# PortableHearing Aid Solar Charger
+# Portable Hearing Aid Solar Charger
 
 
 ## Abstract 
