@@ -1,0 +1,16 @@
+Removed Pin From Net: NetName=NetBAT_1 Pin=P2-1
+Removed Pin From Net: NetName=NetBAT_2 Pin=P2-2
+Removed Pin From Net: NetName=NetC6_1 Pin=P?-1
+Removed Pin From Net: NetName=GND Pin=P?-2
+Removed Pin From Net: NetName=GND Pin=P?-3
+Removed Pin From Net: NetName=GND Pin=P?-4
+Removed Pin From Net: NetName=GND Pin=P?-5
+Removed Pin From Net: NetName=NetR5_2 Pin=TPS61200-1
+Removed Pin From Net: NetName=NetC5_1 Pin=TPS61200-10
+Removed Member From Class: ClassName=Sheet1 Member=P2
+Removed Member From Class: ClassName=Sheet1 Member=P?
+Change Component Comment : Designator=R5 Old Comment=1.2M New Comment=2M
+Added Pin To Net: NetName=NetC5_1 Pin=TPS61200-1
+Added Pin To Net: NetName=NetR5_2 Pin=TPS61200-10
+Change Net Name : Old Net Name=NetC6_1 New Net Name=Net*_SHELL
+Added Room: Name=Sheet1

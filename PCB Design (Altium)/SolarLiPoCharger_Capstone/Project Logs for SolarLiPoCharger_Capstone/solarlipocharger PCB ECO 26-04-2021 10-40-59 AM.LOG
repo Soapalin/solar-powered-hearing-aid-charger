@@ -1,0 +1,5 @@
+Added Component: Designator=P OUT(PWR)
+Added Pin To Net: NetName=NetBAT_1 Pin=P OUT-1
+Added Pin To Net: NetName=GND Pin=P OUT-2
+Added Member To Class: ClassName=Sheet1 Member=Component P OUT PWR OUT
+Added Room: Name=Sheet1

@@ -1,0 +1,8 @@
+Removed Pin From Net: NetName=GND Pin=*-1
+Removed Pin From Net: NetName=Net*_SHELL Pin=*-SHELL1
+Removed Pin From Net: NetName=Net*_SHELL Pin=*-SHELL
+Added Pin To Net: NetName=Net*_SHELL Pin=*-1
+Added Pin To Net: NetName=GND Pin=*-SHELL1
+Added Pin To Net: NetName=GND Pin=*-SHELL
+Change Net Name : Old Net Name=Net*_SHELL New Net Name=Net*_1
+Added Room: Name=Sheet1

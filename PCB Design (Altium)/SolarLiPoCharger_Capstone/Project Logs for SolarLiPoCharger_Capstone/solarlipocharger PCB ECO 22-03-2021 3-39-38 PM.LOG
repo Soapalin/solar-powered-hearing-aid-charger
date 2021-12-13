@@ -1,0 +1,103 @@
+Added Component: Designator=BAT(PWR)
+Added Component: Designator=C1(CAPACITOR 0805)
+Added Component: Designator=C2(CAPACITOR 0402)
+Added Component: Designator=C3(CAPACITOR 0805)
+Added Component: Designator=C4(CAPACITOR 0402)
+Added Component: Designator=C5(CAPACITOR 0402)
+Added Component: Designator=C6(CAPACITOR 0805)
+Added Component: Designator=CN3083(CN3083)
+Added Component: Designator=D1(DIODE 0603)
+Added Component: Designator=D2(DIODE 0603)
+Added Component: Designator=L1(LPS3015)
+Added Component: Designator=P2(PWR)
+Added Component: Designator=P?(MICRO USB OUT)
+Added Component: Designator=PWR IN2(PWR)
+Added Component: Designator=PWR IN(PWR)
+Added Component: Designator=R1(RESISTOR 0402)
+Added Component: Designator=R2(RESISTOR 0402)
+Added Component: Designator=R3(RESISTOR 0805)
+Added Component: Designator=R4(RESISTOR 0805)
+Added Component: Designator=R5(RESISTOR 0805)
+Added Component: Designator=R6(RESISTOR 0402)
+Added Component: Designator=SS14(SS14)
+Added Component: Designator=TPS61200(TPS61200)
+Added Pin To Net: NetName=GND Pin=C1-2
+Added Pin To Net: NetName=GND Pin=C3-2
+Added Pin To Net: NetName=GND Pin=C5-2
+Added Pin To Net: NetName=GND Pin=C6-2
+Added Pin To Net: NetName=GND Pin=CN3083-3
+Added Pin To Net: NetName=GND Pin=P?-2
+Added Pin To Net: NetName=GND Pin=P?-3
+Added Pin To Net: NetName=GND Pin=P?-4
+Added Pin To Net: NetName=GND Pin=P?-5
+Added Pin To Net: NetName=GND Pin=PWR IN-2
+Added Pin To Net: NetName=GND Pin=PWR IN2-2
+Added Pin To Net: NetName=GND Pin=R2-2
+Added Pin To Net: NetName=GND Pin=R4-2
+Added Pin To Net: NetName=GND Pin=R6-2
+Added Pin To Net: NetName=GND Pin=TPS61200-4
+Added Pin To Net: NetName=GND Pin=TPS61200-9
+Added Net: Name=GND
+Added Pin To Net: NetName=NetBAT_1 Pin=BAT-1
+Added Pin To Net: NetName=NetBAT_1 Pin=C2-1
+Added Pin To Net: NetName=NetBAT_1 Pin=CN3083-5
+Added Pin To Net: NetName=NetBAT_1 Pin=CN3083-8
+Added Pin To Net: NetName=NetBAT_1 Pin=P2-1
+Added Net: Name=NetBAT_1
+Added Pin To Net: NetName=NetBAT_2 Pin=BAT-2
+Added Pin To Net: NetName=NetBAT_2 Pin=C2-2
+Added Pin To Net: NetName=NetBAT_2 Pin=CN3083-1
+Added Pin To Net: NetName=NetBAT_2 Pin=P2-2
+Added Net: Name=NetBAT_2
+Added Pin To Net: NetName=NetC1_1 Pin=C1-1
+Added Pin To Net: NetName=NetC1_1 Pin=CN3083-4
+Added Pin To Net: NetName=NetC1_1 Pin=R1-1
+Added Pin To Net: NetName=NetC1_1 Pin=SS14-2
+Added Net: Name=NetC1_1
+Added Pin To Net: NetName=NetC3_1 Pin=C3-1
+Added Pin To Net: NetName=NetC3_1 Pin=C4-1
+Added Pin To Net: NetName=NetC3_1 Pin=L1-1
+Added Pin To Net: NetName=NetC3_1 Pin=PWR IN2-1
+Added Pin To Net: NetName=NetC3_1 Pin=R3-1
+Added Pin To Net: NetName=NetC3_1 Pin=TPS61200-5
+Added Pin To Net: NetName=NetC3_1 Pin=TPS61200-6
+Added Pin To Net: NetName=NetC3_1 Pin=TPS61200-8
+Added Net: Name=NetC3_1
+Added Pin To Net: NetName=NetC4_2 Pin=C4-2
+Added Pin To Net: NetName=NetC4_2 Pin=R3-2
+Added Pin To Net: NetName=NetC4_2 Pin=R4-1
+Added Pin To Net: NetName=NetC4_2 Pin=TPS61200-7
+Added Net: Name=NetC4_2
+Added Pin To Net: NetName=NetC5_1 Pin=C5-1
+Added Pin To Net: NetName=NetC5_1 Pin=TPS61200-10
+Added Net: Name=NetC5_1
+Added Pin To Net: NetName=NetC6_1 Pin=C6-1
+Added Pin To Net: NetName=NetC6_1 Pin=P?-1
+Added Pin To Net: NetName=NetC6_1 Pin=R5-1
+Added Pin To Net: NetName=NetC6_1 Pin=TPS61200-2
+Added Net: Name=NetC6_1
+Added Pin To Net: NetName=NetCN3083_2 Pin=CN3083-2
+Added Pin To Net: NetName=NetCN3083_2 Pin=R2-1
+Added Net: Name=NetCN3083_2
+Added Pin To Net: NetName=NetCN3083_6 Pin=CN3083-6
+Added Pin To Net: NetName=NetCN3083_6 Pin=D1-2
+Added Net: Name=NetCN3083_6
+Added Pin To Net: NetName=NetCN3083_7 Pin=CN3083-7
+Added Pin To Net: NetName=NetCN3083_7 Pin=D2-2
+Added Net: Name=NetCN3083_7
+Added Pin To Net: NetName=NetD1_1 Pin=D1-1
+Added Pin To Net: NetName=NetD1_1 Pin=D2-1
+Added Pin To Net: NetName=NetD1_1 Pin=R1-2
+Added Net: Name=NetD1_1
+Added Pin To Net: NetName=NetL1_2 Pin=L1-2
+Added Pin To Net: NetName=NetL1_2 Pin=TPS61200-3
+Added Net: Name=NetL1_2
+Added Pin To Net: NetName=NetPWR IN_1 Pin=PWR IN-1
+Added Pin To Net: NetName=NetPWR IN_1 Pin=SS14-1
+Added Net: Name=NetPWR IN_1
+Added Pin To Net: NetName=NetR5_2 Pin=R5-2
+Added Pin To Net: NetName=NetR5_2 Pin=R6-1
+Added Pin To Net: NetName=NetR5_2 Pin=TPS61200-1
+Added Net: Name=NetR5_2
+Added Class: Name=Sheet1
+Added Room: Name=Sheet1

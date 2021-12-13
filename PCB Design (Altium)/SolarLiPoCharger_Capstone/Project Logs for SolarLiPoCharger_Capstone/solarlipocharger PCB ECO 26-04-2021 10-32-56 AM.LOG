@@ -1,0 +1,7 @@
+Change Component Footprint: Designator=BAT Old Footprint=PWR New Footprint=BAT
+Added Pin To Net: NetName=GND Pin=BAT-2
+Added Pin To Net: NetName=GND Pin=BAT-S1
+Added Pin To Net: NetName=GND Pin=BAT-S2
+Added Pin To Net: NetName=GND Pin=C2-2
+Added Pin To Net: NetName=GND Pin=CN3083-1
+Added Room: Name=Sheet1
